@@ -26,7 +26,7 @@ This is the forLoop we used on the "AllStocksAnalysis" subroutine
    
    '4) Loop through tickers
    
-   For i = 0 To 11
+      For i = 0 To 11
    
        ticker = tickers(i)
        
