@@ -71,7 +71,7 @@ This is the output arrays and the varibles we initialized in the "refactored" ve
       tickerEndingPrices(i) = 0
       
 ### Stock Comparison 2017 & 2018
-When we look at our data for both years, we are able to see some major differences....There is a lot success for investors in Green Energy as a whole in 2017, while in 2018, only a couple stocks were in the "black". (RUN) and (ENPH)
+When we look at our data for both years, we are able to see some major differences....There is a lot of success for investors in Green Energy as a whole in 2017, while in 2018, only a couple stocks were in the "black". (RUN) and (ENPH)
 
 ### Execution Times of Original and Refactored Subroutines
 
@@ -83,7 +83,7 @@ With all data considered, there is definately a downward trend forming as an ove
 
 ### Advantages and Disadvantages
 As far as refactoring the code, there is definately an advantage of automating the "macro" to do the analysis faster and more efficiently.
-The disadvantage of creating  the "macro" is that some things might not run to nyour needs because of one misspelled word or misplaced varible/etc. it can get taxing on the brain trying to figure out where you went wrong.
+The disadvantage of creating  the "macro" is that some things might not run to your needs because of one misspelled word or misplaced varible/etc. It can get taxing on the brain trying to figure out where you went wrong.
 
 ### What are the pro's and con's of refactoring the original subroutine?
 The original script ran just fine without refactoring. The refactored routine shaved just milliseconds off of the original. But on the other hand, we are able to access both sheets without having to dive in too much. 
