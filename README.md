@@ -21,6 +21,7 @@ As for 2018, stocks were down across the board in Green Energy with the exceptio
 
 ### Examples Of Code
 This is the forLoop we used on the "AllStocksAnalysis" subroutine
+
    RowCount = Cells(Rows.Count, "A").End(xlUp).Row
 
    '4) Loop through tickers
