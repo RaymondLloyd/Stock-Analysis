@@ -17,7 +17,7 @@ By creating Subroutines inside of a "macro", we are able to run code to simplify
 You can see that DAQO (DQ) was extremely successful in 2017, almost doubling what was invested. On the other side of things, Terraform Power (TERP) was incredibly unsuccessful at the same time, losing almost all investments.
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/79877349/112691904-3cd8fc00-8e3b-11eb-8d2b-1d34c13ea083.png)
-As for 2018, stocks were dow n acroos the board in Green Energy with the exception of Sunrun(RUN) and Enphase Enaergy (ENPH), who were thriving.
+As for 2018, stocks were down across the board in Green Energy with the exception of Sunrun(RUN) and Enphase Enaergy (ENPH), who were thriving.
 
 ### Examples Of Code
 This is the forLoop we used on the "AllStocksAnalysis" subroutine
