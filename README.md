@@ -13,8 +13,8 @@ By creating Subroutines inside of a "macro", we are able to run code to simplify
 ## Results
 
 ### Year by Year Analysis
-![Screenshot (5)](https://user-images.githubusercontent.com/79877349/112691607-ccca7600-8e3a-11eb-8aae-fafe6a69d23d.png)
-You can see that DAQO (DQ) was extremely successful in 2017, almost doubling what was invested. On the other side of things, Terraform Power (TERP) was incredibly unsuccessful at the same time, losing almost all investments.
+
+You can see that DAQO (DQ) was extremely successful in 2017, almost doubling what was invested. On the other side of things, Terraform Power (TERP) was incredibly unsuccessful, not coming close to breaking even.
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/79877349/112691904-3cd8fc00-8e3b-11eb-8d2b-1d34c13ea083.png)
 As for 2018, stocks were down across the board in Green Energy with the exception of Sunrun(RUN) and Enphase Enaergy (ENPH), who were thriving.
